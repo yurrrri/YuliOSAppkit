@@ -17,7 +17,7 @@
 import Photos
 import UIKit
 
-struct PhotoPermissionManager {
+struct PhotoClient {
   
   init() {}
   
